@@ -11,3 +11,5 @@ Pasos para ejecutar Blackjack.
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+3.  renombrarla a 
+```docs``` en caso de utilizar Github pages
